@@ -1,0 +1,7 @@
+E:\C# .NET\TP2\TP2\obj\Debug\TP2.csprojResolveAssemblyReference.cache
+E:\C# .NET\TP2\TP2\bin\Debug\TP2.exe.config
+E:\C# .NET\TP2\TP2\bin\Debug\TP2.exe
+E:\C# .NET\TP2\TP2\bin\Debug\TP2.pdb
+E:\C# .NET\TP2\TP2\bin\Debug\MySql.Data.dll
+E:\C# .NET\TP2\TP2\obj\Debug\TP2.exe
+E:\C# .NET\TP2\TP2\obj\Debug\TP2.pdb
